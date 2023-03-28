@@ -6,11 +6,11 @@
 # A ideia
 Criação de uma o landing page para uma academia.
 
-Esse projeto foi desenvolvido acompanhando nas aulas do youtuber EdRoh. 
+Esse projeto foi desenvolvido acompanhando as aulas do youtuber EdRoh. 
 
 # Tecnologias usadas
-## Front end
  - React
+ - Typescript
  - Motion Div
  - TailwindCSS
 
